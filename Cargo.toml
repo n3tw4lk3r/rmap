@@ -1,6 +1,6 @@
 [package]
 name = "rmap"
-version = "0.1.0"
+version = "0.2.0"
 description = "Nmap-like tool written in Rust"
 edition = "2021"
 
