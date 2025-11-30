@@ -1,10 +1,10 @@
 # rmap 
 Simple port scanner written in Rust for educational purposes.
 Features
-    TCP Connect scanning
-    Scans common ports (21, 22, 23, 25, 53, 80, 110, 443, etc.)
-    Configurable timeout
-    Async execution
+- TCP Connect scanning
+- Scans common ports (21, 22, 23, 25, 53, 80, 110, 443, etc.)
+- Configurable timeout
+- Async execution
 
 ## Build
 ```Bash
